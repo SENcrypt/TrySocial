@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TrySocial/static/css/main.65e6e920.css",
+    "main.js": "/TrySocial/static/js/main.6251886d.js",
+    "index.html": "/TrySocial/index.html",
+    "main.65e6e920.css.map": "/TrySocial/static/css/main.65e6e920.css.map",
+    "main.6251886d.js.map": "/TrySocial/static/js/main.6251886d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65e6e920.css",
+    "static/js/main.6251886d.js"
+  ]
+}
